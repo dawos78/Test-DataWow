@@ -1,0 +1,21 @@
+.dropdown-background {
+    background-color: #ffffff;
+    width: 120px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 5px;
+    width: 100px;
+    border-radius: 10px;
+}
+.menu-option:hover{
+    color:white;
+    background-color: #585292;
+    padding: 10px 10px;
+    border-radius: 10px;
+}

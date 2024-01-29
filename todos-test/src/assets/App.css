@@ -1,0 +1,81 @@
+
+#root {
+ justify-content: center;
+ align-items: center;
+ display: flex;
+ height: 100vh;
+}
+.task {
+  font-weight: 500;
+  font-size: 24px;
+  color: #000000;  
+}
+.card-todos {
+  background-color: #F5F5F5;
+  border-radius: 20px;
+  padding: 60px 66px;
+  width: 100%;
+  max-width: 720px;
+}
+.todos-list-card {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+  border-radius: 50px;  
+}
+.add-todos {
+  border: 0px;
+  border-radius: 50px;
+  padding: 15px 20px;
+  width: 100%;
+  max-width: 680px;
+}
+.cb1 {
+  accent-color: #585292;
+  border-radius: 10px;
+  height: 17px;
+  width: 17px;
+  border: 10px;
+  margin-right: 10px;
+}
+
+.card-todos-process {
+  background-color: #E07C7C;
+  border-radius: 20px;
+  padding: 20px;
+}
+.w-100 {
+  width: 100%;
+}
+.menu {
+  background-color: #ffffff;
+  padding: 10px;
+  margin-top: 5px;
+  width: 100px;
+  border-radius: 10px;
+}
+.menu-option:hover{
+  color:white;
+  background-color: #585292;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.text-header-progress {
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 28px;
+  margin: 0px 0px 10px 0px !important;
+}
+.text-completed {
+  font-size: 16px I !important;
+  font-weight: 400;
+  color: #EBB9B8;
+}
+.flex {
+  display: flex;
+}
+.justify-between {
+  justify-content: space-between;
+}
